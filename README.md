@@ -1,6 +1,6 @@
 # IE-332-Project-2
 Algorithm Ideas
-- Changing one color to another
+- Changing one color to another - gianna
 - Adding blur
 - Zooming in/Zooming out
 - 1 in every 4 pixels turns a shade of color
