@@ -27,5 +27,6 @@ There are several types of adversarial attacks that could work on a binary image
 -Spatial Transformation Attack: Spatial transformation attacks modify the input image by adding rotations, translations, and other spatial transformations to the image to cause misclassification by the classifier.
 It's worth noting that each type of adversarial attack has its own strengths and weaknesses, and the choice of attack depends on the specific task and requirements of the binary image classifier.
 
+-One Pixel Attack: This is a simple but effective attack that changes the color of only one pixel in an image to cause misclassification. The pixel is selected based on an optimization algorithm that maximizes the classification error while minimizing the number of pixels changed.
 
 
