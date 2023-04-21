@@ -28,4 +28,5 @@ There are several types of adversarial attacks that could work on a binary image
 It's worth noting that each type of adversarial attack has its own strengths and weaknesses, and the choice of attack depends on the specific task and requirements of the binary image classifier.
 
 
-
+https://www.edureka.co/community/54357/edit-image-in-r
+https://stackoverflow.com/questions/59861122/change-image-pixel-colors-in-r-and-save-image
